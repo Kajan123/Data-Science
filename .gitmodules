@@ -1,0 +1,3 @@
+[submodule "cscsi4142-project-datasets"]
+	path = cscsi4142-project-datasets
+	url = https://github.com/noobstang/cscsi4142-project-datasets.git
